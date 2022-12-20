@@ -1,0 +1,25 @@
+body {
+  background-color: #151D3B;
+  color:#6EBF8B;
+  text-align: center;
+}
+
+h1 {
+  font-size: 7rem;
+}
+
+p {
+  font-size: 4rem;
+}
+
+.container {
+  display:flex;
+  justify-content: center;
+}
+
+.player1 {
+  padding: 0 5rem;
+}
+.player2 {
+  padding: 0 5rem;
+}
